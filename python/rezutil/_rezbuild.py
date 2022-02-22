@@ -147,6 +147,10 @@ def clean(root, attempt=0):
 
         # And files
         for fname in files:
+            
+            if fname in ("build.rxt", "variant.json"):
+                continue
+            
             abspath = os.path.join(base, fname)
 
             if attempt == 0:
