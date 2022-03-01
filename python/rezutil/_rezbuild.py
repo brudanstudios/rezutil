@@ -33,7 +33,8 @@ IGNORE = [
     "__pycache__",
     "*.pyproj",
     "*.sln",
-    ".vs",
+    ".vscode",
+    ".lh"
     "venv*",
     ".idea"
 ]
