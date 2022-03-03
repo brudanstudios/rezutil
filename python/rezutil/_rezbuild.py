@@ -34,7 +34,7 @@ IGNORE = [
     "*.pyproj",
     "*.sln",
     ".vscode",
-    ".lh"
+    ".lh",
     "venv*",
     ".idea"
 ]
