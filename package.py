@@ -1,5 +1,5 @@
 name = "rezutil"
-version = "1.3.3"
+version = "1.3.4"
 requires = ["python-2.7+,<4"]
 build_command = "python {root}/install.py"
 

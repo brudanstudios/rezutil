@@ -36,7 +36,8 @@ IGNORE = [
     ".vscode",
     ".lh",
     "venv*",
-    ".idea"
+    ".idea",
+    ".history"
 ]
 
 # IO is unreliable; in this script, we'll give
